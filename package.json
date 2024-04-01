@@ -2,7 +2,7 @@
   "name": "n8n-monorepo",
   "version": "1.33.0",
   "private": true,
-  "homepage": "https://n8n.io",
+  "homepage": "https://n8n.io ",
   "engines": {
     "node": ">=18.10",
     "pnpm": ">=8.14"
